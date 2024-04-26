@@ -1,0 +1,20 @@
+História do C 
+
+
+ALGOL (ALGOrithmic Language). - 1950
+
+
+1966 - BCPL ( Basic Combined Programming Language). Criada para ser mais eficiênte que o ALGOL 
+
+Ken Thompson - Trabalhava em telecomunicações e criou uma linguagem inspirada na BCPL chamada B
+Dennis Ritchie  + Ken Thompson em um projeto único, chamado Unix para padronizar a conversação entre computadores mesmos de fabricantes diferentes.
+> Unix em usa primeira versão rodava no PDP-11
+
+Dennis Ritchie 1972(NB) Assumiu então a criação do NB, uma evolução da linguagem B, para poder ter mais controle de hardware. Uma vez que, a linguagem B, estava com problemas no PDP-11 que era o kernel (núcleo) era de Assemly. Mais tarde, a linguagem NB foi nomeada para C.
+
+Michael Lesk Foi o responsável pela portabilidade do UNIX ao desenvolver um compilador do C. Basicamente, o PDP-1, que possuiam entradas estava funcionando normalmente. Entretanto quando pegava o C para colocar em outra máquina não funcionava devido às diferentes de I/O, criador da biblioteca Standard I/O stdio 
+
+
+Brian Kernighan foi o documentador da linguagem C, responsável por expandir
+
+Tanebaum criou uma das versões do UNIX para usar em sala de aula. Tempos depois, Torvalds, um dos alunos de Tanebaum, 
