@@ -1,0 +1,11 @@
+Ling C M00E02 Como Funciona
+
+O computador entende bits, zero e uns.
+
+Linguagem de alto nível -> Linguagem de programação que o programador entende ( Código fonte ) 
+
+De linguagem fonte ( alto nível ) para o código objeto ou linguagem intermediária. O código objeto é uma linguagem intermediária ( no caso da linguagem C )
+
+De linguagem objeto, acontece um processo chamado de montagem, ou assembly, ou executável. 
+
+No caso da linguagem C, é possível utilizar diversos compiladores diferentes que vão gerar objetos diferentes para arquiteturas de computadores diferentes ( windows, linux, MacOS)
