@@ -10,7 +10,7 @@
 
 ### Reference
 
-- [C (YouTube)](https://www.youtube.com/watch?v=tO-gpnR5Q34)
+- [C (YouTube)](https://www.youtube.com/watch?v=QgE1zh0xCns&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=3)
 
 
 
