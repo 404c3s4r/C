@@ -12,6 +12,11 @@ char armazena 1byte;
 */
 
 
+//sizeof é um operador para verificar o espaço reservado pela variável. (retorna long unsigned int )
+// Para poder formatar o unsigned int, usa-se o %lu ( mais seguro ) que usar o %d
+
+
+
 int main(){
 
 	int myInt;
@@ -19,13 +24,16 @@ int main(){
 	double myDouble;
 	char myChar;
 	
-	printf("%lu\n", sizeof(myInt)); //sizeof é um operador para verificar o espaço reservado pela variável.
+	printf("%lu\n", sizeof(myInt)); 
 	printf("%lu\n", sizeof(myFloat));
 	printf("%lu\n", sizeof(myDouble));
 	printf("%lu\n", sizeof(myChar));
 
 
 }
+
+
+
 /*
 
 //Testando armazenar mais de 16 números em uma variável do tipo int
