@@ -2,7 +2,7 @@
 /*
 
 %d Formata um número inteiro
-%f Formata um valor decimal 
+%f Formata um valor real 
 %.2f Formata um valor real em apenas 2 casas decimais.
 %c Formata um único caractere ( um único caractere é rodeado de aspas simples ) 
 
@@ -41,18 +41,11 @@ int main() {
 }
 
 
-
-
-*/
-
 //Se tentarmos colocar um número flutante dentro de %d ? 
-
-/*
 
 int main() {
     printf("Hello world %d.\n", 14.2);  
     return 0;
-}
 
 
 
