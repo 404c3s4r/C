@@ -8,13 +8,16 @@ int main(){
 	
 	
 	printf("%s", texto);
-	printf("Digite um numero: ");
+	printf("Digite um numero de 1 a 10: ");
 	
 	scanf("%d", &n);
-	
-	while(i <= 10){
-		printf("%d\n", i*n);
-		i++;
+	if(n <= 10){
+		do{
+			printf("%d\n", i*n);
+			i++;	
+		}while(i <=10);
+	}else {
+		return; 
 	}
 }
 
