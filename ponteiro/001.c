@@ -8,7 +8,7 @@ int main(){
 	int* ptr = &variable; //OR  it creates a pointer variable. 
 	
 	printf("%p\n", ptr); // obtendo o endereco da memoria 
-	printf("%d", *ptr); //
+	printf("%d", *ptr); // obtendo o valor do endereco da memoria ao qual o ponteiro aponta atraves do * ( operador de desreferencia ) 
 
 }
 

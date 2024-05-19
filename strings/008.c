@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 
+
+
 int main(){
 	char nome[64];
 	

@@ -28,7 +28,7 @@ int main(){
 */
 
 
-//strcat 
+//strcat - Concatenando strings
 int main(){
 	char str1[20] = "Hello";
 	char str2[] = "World!";

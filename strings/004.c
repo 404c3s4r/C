@@ -4,7 +4,7 @@
 
 int main(){
 
-	char carName[] = "Volvo";
+	char carName[] = "Volvo"; // Automaticamente a palavra "volvo" entra {}
 	int length = sizeof(carName) / sizeof(carName[0]);
 	int i;
 	
