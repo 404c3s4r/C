@@ -2,6 +2,8 @@
 
 <p align="center">Studying and practicing exercises on the C language. My interest in the language arose when I wanted to learn more about malware analysis, understand operating system programming, and build a solid foundation in programming.</i></p>
 
+
+
 ### Technologies 
 <div >
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
