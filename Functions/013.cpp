@@ -3,6 +3,7 @@
 
 
 int rouds(float);
+
 int main(){
 	float result = rouds(10.2);	
 	printf("%.1f", result); 
