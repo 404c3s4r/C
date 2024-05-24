@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-#define intro "Soma entre 2 numeros:\n ";
 
 
 int myfunction(int n1, int n2){
