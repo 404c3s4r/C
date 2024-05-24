@@ -1,1 +1,3 @@
-if u write to a file that already exists, the old content is deleted
+if u write to a file that already exists, the old content is deleted; 
+
+the second line; 
