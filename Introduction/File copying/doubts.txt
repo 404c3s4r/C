@@ -1,0 +1,44 @@
+I DONT UNDERSTANT THAT 
+
+// 1 caractere = fgetc(arquivo)) != EOF ?????????????????
+/* 
+        #include <stdio.h>
+        
+        int main() {
+            FILE *arquivo;
+            char caractere;
+        
+            arquivo = fopen("arquivo.txt", "r");
+        
+            if (arquivo == NULL) {
+                perror("Erro ao abrir o arquivo");
+                return 1;
+            }
+        
+            while ((caractere = fgetc(arquivo)) != EOF) {
+                printf("%c", caractere);
+            }
+        
+            fclose(arquivo);
+        
+            return 0;
+        }
+*/ 
+
+
+// 2   ((c = getchar()) != EOF) ???????
+
+/*  
+        #include <stdio.h>
+        
+        int main() {
+            int c;
+            while ((c = getchar()) != EOF) {
+                putchar(c);
+            }
+            return 0;
+        }
+        */ 
+    
+    
+  
