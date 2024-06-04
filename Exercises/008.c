@@ -34,7 +34,7 @@ int main() {
     printf("\n");
     printf("Whitespaces  = %d\n", nwhite);
     printf("Others = %d\n", other);
-
+	
     return 0;
 }
 
