@@ -1,11 +1,28 @@
 #include <stdio.h>
-#include <stdlib.h>
-int main() {
-	printf('Hello world\n'); //Ao trabalharmos com C, devemos usar aspas duplas ""; Erro ao utilizar '' ( aspas simples ):  [Warning] character constant too long for its type
-	system("pause");
-    
+
+int main()
+
+
+{
+
+	int min = 0;
+	int max = 300;
+	int incremento = 20;
+	int celsius;
+	int fahrenheit = min;
+
+
+	fahrenheit = min;
+	while(fahrenheit <= max){
+
+		celsius = (fahrenheit - 32) / 1.8;
+		printf("%d\t%d\n", fahrenheit, celsius);
+
+		fahrenheit = fahrenheit + incremento; 
+
 }
-/*
-Este é um comentário multilinhas. 
-Comentários com várias linhas começam com /* e terminam com * / 
-*/ 
+
+
+
+
+}
