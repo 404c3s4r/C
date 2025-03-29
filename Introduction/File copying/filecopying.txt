@@ -1,1 +1,0 @@
-> What appears to be a character on the keyboard or screen is of course, like everything else, stored internally just as a bit pattern. 
